@@ -17,7 +17,7 @@ body{
 }
 
 .navbar-header button.navbar-toggle {
-	clear: both;
+	/*clear: both;*/
 }
 
 .navbar-header .navbar-brand{ /*ancla*/
