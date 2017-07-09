@@ -1,0 +1,48 @@
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+body{
+	font-size: 16px;
+	color: black;
+	background-color: #61122f;
+	font-family: 'Oxigen', sans-serif;
+}
+
+#hola {
+	font-size: 100px;
+	margin-top: 10px;
+}
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+}
+
+.navbar-header .navbar-brand{ /*ancla*/
+	height: 100px;
+}
+
+#empresa {
+	font-size: 40px;
+}
+
+#nav-list a{
+	color: white;
+	background-color: #00994C;
+}
+
+#titol{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+section{
+	background-color: #8BC7E5;
+	margin-bottom: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
